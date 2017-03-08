@@ -1,0 +1,45 @@
+Git Bash
+
+git add . #.- for all else specfic files
+
+git commit # commit to staging
+
+git push --set-upstream . master # for setting master and pushing
+
+
+Numpy
+
+
+
+Python
+
+
+
+
+Bash 
+
+
+
+
+Kaggle
+
+
+
+
+Pandas
+
+
+
+
+Keras
+
+
+
+
+Matplotlib
+
+
+
+Initialization
+
+
