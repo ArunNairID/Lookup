@@ -2,10 +2,11 @@ Git Bash
 
 git add . #.- for all else specfic files
 
-git commit # commit to staging
+git commit -m "First commit" # commit to staging
 
-git push --set-upstream . master # for setting master and pushing
-
+git remote add origin "remote repository URL" #  github git repository
+git remote -v # verify remote url
+git push origin master ## for setting master and pushing
 
 Numpy
 
